@@ -121,11 +121,5 @@ best_move = get_best_move(board, 3)
 
 Increasing the depth allows the solver to examine more future states but also increases execution time.
 
----
-
-## Course Information
-
-ECS 170: Introduction to Artificial Intelligence
-University of California, Davis
 
 
